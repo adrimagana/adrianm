@@ -1,1 +1,1 @@
-# 🧍 Hi I am Adrian! A Data Science Student @ UC Berkeley! You can visit my website to learn more about me!
+# Hi! My name is Adrian, I am a Data Science Undergrad at the University of California, Berkeley (Gob Ears! :bear:). You can visit my website to learn more about me!`
